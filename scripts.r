@@ -1,11 +1,6 @@
 ## list of functions to read EDM
 
 setwd("~/learning/r/20170616_stressTestMachine")
-
-library("magrittr")
-library("data.table")
-library("SDMTools")
-library("parallel")
 # options(repos = c(CRAN= "http://cran.rstudio.com"))
 source("ipak.r")
 packages <- c("data.table", "parallel", "SDMTools", "magrittr")
